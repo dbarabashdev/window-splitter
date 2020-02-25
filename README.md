@@ -15,7 +15,7 @@
 
 ## Demo
 
-    - [Demo](http://material-ui-window-splitter.surge.sh/).
+- [Demo](http://material-ui-window-splitter.surge.sh/) .
 
 ## Languages & tools
 
